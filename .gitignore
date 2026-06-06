@@ -1,0 +1,8 @@
+venv/
+newvenv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.pkl
+*.csv
