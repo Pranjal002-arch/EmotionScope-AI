@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+speechrecognition
+textblob
+pyaudio
+pandas
+numpy
+scikit-learn
+plotly
+streamlit-option-menu
+pyttsx3

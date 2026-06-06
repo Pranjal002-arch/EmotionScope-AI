@@ -1,0 +1,70 @@
+timestamp,input_text,predicted_emotion,risk_level,confidence_score
+2026-04-08 22:32:47,i am very happy,joy,low,0.4396
+2026-04-08 22:33:48,"i am very depressed and do not feel like doing anything
+",sadness,medium,0.5318
+2026-04-08 22:35:11,"i am very happy.
+",joy,low,0.4396
+2026-04-08 22:35:16,"i am very happy.
+",joy,low,0.4396
+2026-04-08 22:35:26,I am very happy,joy,low,0.4396
+2026-04-08 22:37:55,i am very happy,joy,low,0.4396
+2026-04-08 22:38:13,i am very happy,joy,low,0.4396
+2026-04-08 22:38:17,i am very happy,joy,low,0.4396
+2026-04-08 22:42:22,I am very happy,joy,low,1.0
+2026-04-08 22:42:34,I am very sad,sadness,low,0.8146
+2026-04-08 22:46:23,I am very depressed,sadness,medium,1.0
+2026-04-08 22:47:08,I am very depressed,sadness,medium,1.0
+2026-04-08 22:47:13,I am very depressed,sadness,medium,1.0
+2026-04-08 22:47:14,I am very depressed,sadness,medium,1.0
+2026-04-08 22:47:15,I am very depressed,sadness,medium,1.0
+2026-04-08 22:47:54,I am very depressed,sadness,medium,1.0
+2026-04-08 22:54:09,"I am very depressed and does not feel like doing anything, i feel very empty and sad , feared for my future",sadness,medium,0.6998
+2026-04-08 22:54:30,"I am very depressed and does not feel like doing anything, ",sadness,medium,0.508
+2026-04-08 22:54:41,I am very depressed.,sadness,medium,1.0
+2026-04-08 22:55:28,"I am very depressed, and i do not feel like doing anything toady . i am very feraful of my future ",sadness,medium,0.5014
+2026-04-08 22:59:03,"I am  depressed, and i do not feel like doing anything toady . i am very feraful of my future ",sadness,medium,0.529
+2026-04-08 22:59:15,"I am  depressed, and i do not feel like doing anything toady . i am very feraful of my future ",sadness,medium,0.529
+2026-04-08 23:05:22,i am feeling very hopeless and sad ,sadness,medium,0.8545
+2026-04-08 23:07:33,I love chocolates,love,low,1.0
+2026-04-08 23:08:37,I love chocolates and i am very happy,joy,low,0.5034
+2026-04-08 23:09:25,I am very happy,joy,low,1.0
+2026-04-08 23:09:40,I am very happy and I feel like I can do everything in a positive environment,joy,low,0.8039
+2026-04-08 23:17:46,I am feeling very hopeful today,joy,low,0.7414
+2026-04-08 23:18:06,I am feeling  hopeful ,joy,low,1.0
+2026-04-08 23:18:14,I am feeling  hopeless,sadness,medium,1.0
+2026-04-08 23:18:20,I am feeling  hopeless,sadness,medium,1.0
+2026-04-08 23:18:38,"I am feeling  hopeless and hopeful for future 
+",sadness,medium,0.8522
+2026-04-08 23:20:06,"The world has turned into a muted, suffocating grey, where every breath feels heavy with an unrelenting, profound sadness that no longer feels temporary. It is a terrifying emptiness, a paralyzing dread that whispers I am worthless and that this agonizing numbness will never end. ",sadness,medium,0.8402
+2026-04-08 23:21:55,I am happy,joy,low,1.0
+2026-04-08 23:22:11,I am very happy and very hopeful for today,joy,low,0.9267
+2026-04-09 14:21:37,i am happy,joy,low,1.0
+2026-04-09 14:22:22,"i am very happy, and i love the nature
+",joy,low,0.5226
+2026-04-09 14:22:54,very happy independence,joy,low,1.0
+2026-04-09 15:15:11,"I am very happy today
+",joy,low,0.716
+2026-04-09 15:44:19,i am very happy  and cheerful,joy,low,0.7371
+2026-04-13 11:40:16,i am happy,joy,low,1.0
+2026-04-14 17:45:36,"i am very happy
+",joy,low,1.0
+2026-04-14 17:46:38,"i am very happy
+",joy,low,1.0
+2026-04-14 17:47:30,"i am very happy and sad
+
+",sadness,low,0.84
+2026-04-14 17:48:20,"I am happy but sad
+
+",sadness,low,0.84
+2026-04-14 17:50:02,"I am
+",sadness,low,1.0
+2026-04-14 17:50:26,"I am very depressed and does not feel like doing anything, i feel very empty and sad , feared for my future
+",sadness,medium,0.84
+2026-06-06 19:14:37,I AM HAPPY,joy,low,1.0
+2026-06-06 19:14:42,I AM HAPPY,joy,low,1.0
+2026-06-06 19:15:33,"I LOVE YOU
+",love,low,1.0
+2026-06-06 19:19:29,"I LOVE YOU
+",love,low,1.0
+2026-06-06 19:19:46,I am sorry,sadness,low,1.0
+2026-06-06 19:20:09,I hate you,anger,low,1.0
